@@ -14,11 +14,11 @@
 Project Description
 In this project, our group will develop a course management system used by administrative staff, professors and students. The system has the following major modules:
 
-## Sections Management
+  ## Sections Management
 This module will allow the administrative staff to manage course sections offered in each semester. Professors are assigned to course sections and professors are responsbile for setting up the course materials.
 
-## Assignments and Exams Management
+  ## Assignments and Exams Management
 In this module, professors will set up and grade assignments and exams, and students will submit and check marks of assignments and take exams. 
 
-## Communications
+  ## Communications
 Professors and students will be able to communicate through announcements, messages, emails to each other.
